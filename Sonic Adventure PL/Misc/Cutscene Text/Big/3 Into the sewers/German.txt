@@ -1,3 +1,4 @@
 Froggy!  Da bist Du!
 Warte, renn' nicht weg!
-Was machst Du denn unter\ndem Auto? Was ist los?
+Was machst Du denn unter
+dem Auto? Was ist los?

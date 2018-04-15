@@ -1,2 +1,3 @@
 Was ist das für ein Ort?
-Wo bin ich?   \nDas ist ganz schön seltsam.
+Wo bin ich?   
+Das ist ganz schön seltsam.

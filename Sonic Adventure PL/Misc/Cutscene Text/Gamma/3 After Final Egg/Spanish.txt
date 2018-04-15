@@ -1,2 +1,3 @@
 ¡Buen trabajo, Gamma!
-La verdad, no pensé que \nfueras tan bueno.
+La verdad, no pensé que 
+fueras tan bueno.

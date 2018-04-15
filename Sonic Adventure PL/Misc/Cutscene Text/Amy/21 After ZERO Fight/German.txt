@@ -1,7 +1,8 @@
 Wach auf, Vögelchen, bitte.
 Wie geht es?  Kannst Du fliegen?
 Uff!
-Du hast es geschafft!\n Jetzt könnt Ihr in Frieden leben!
+Du hast es geschafft!
+ Jetzt könnt Ihr in Frieden leben!
 Ich bin so froh!
 Ich werde mein Bestes versuchen!
 Paß auf.

@@ -1,0 +1,3 @@
+Este es el Long Hammer.
+Ahora, el radio de ataque es mayor.  
+Intenta el Ataque Martillo en círculos.

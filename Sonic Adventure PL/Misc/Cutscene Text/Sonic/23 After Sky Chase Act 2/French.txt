@@ -1,7 +1,10 @@
 Nous voilà!    
-Il faut atterrir sur \nl'Egg Carrier!
+Il faut atterrir sur 
+l'Egg Carrier!
 Zut.
-Euh...\nJ'ai oublié quelque chose.
+Euh...
+J'ai oublié quelque chose.
 Quoi exactement?
-Nous n'avons pas d'atterrisseur \nen ce mode.
+Nous n'avons pas d'atterrisseur 
+en ce mode.
 Non?!

@@ -1,4 +1,7 @@
-Al campo de tiro \nse va por esta puerta.
-Tu hermano mayor, E-101 Beta,\nestá practicando.
+Al campo de tiro 
+se va por esta puerta.
+Tu hermano mayor, E-101 Beta,
+está practicando.
 ¡Entra, Gamma!
-Tú no eres tan avanzado como Beta,\npero lo harás bien.
+Tú no eres tan avanzado como Beta,
+pero lo harás bien.

@@ -1,4 +1,5 @@
 ¡Eh, es el doctor Eggman!
 ¿Qué es lo que lleva?
-¡Tiene una parte \nde la Master Emerald!
+¡Tiene una parte 
+de la Master Emerald!
 ¡Espera! ¡Vuelve aquí!

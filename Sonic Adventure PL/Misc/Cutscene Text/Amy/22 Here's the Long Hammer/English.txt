@@ -1,0 +1,3 @@
+Here's the Long Hammer.
+Your attack radius is now increased.  
+Try the Spin Hammer Attack.

@@ -1,4 +1,6 @@
 Mais où suis-je?
-Je ne connais pas cet \nendroit.
+Je ne connais pas cet 
+endroit.
 Mais cela me rappelle quelque part.
-Hmmmm...  \nC'est très curieux.
+Hmmmm...  
+C'est très curieux.

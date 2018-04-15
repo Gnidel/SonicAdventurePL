@@ -1,2 +1,3 @@
-Je sens la présence \nde la Master Emerald.
+Je sens la présence 
+de la Master Emerald.
 Elle ne doit pas être loin.

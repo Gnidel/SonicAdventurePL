@@ -1,30 +1,35 @@
-Huh?
-Wh-What?
-Hand over the bird.
-No...!
-Calmly hand over the bird.
-When I say no, \nI mean no!
+Now, now.  Calm down.
+What do you want?
+Hand me the bird.
+Nope!
+Quietly hand over the bird.
+NO!   Never!
 Why not?
-Do I need a reason?
-Let's hear it then. What \ndo you intend to do with the bird?
-I have no information.
-You don't know...?
-But I know you're not going \nto treat it kindly.
-Hey, please! Help us!
-If you feel even the smallest bit \nof sympathy for this bird!
+I don't need to tell you anything.
+You tell ME why you want it, now!
 Does not compute.
-Why do you try so hard to \nhelp a complete stranger?
-Does not compute...
-I see...
-Eggman doesn't teach \nyou these things...
-Wh-What's wrong, birdie!?
-Get out of here.
-Eh?
-Why?
-This place is dangerous...
-Hurry! We will arrive \nat the Mystic Ruins base soon.
-You...?
-You seem different from \nthe other Eggman mechs.
-If you're really not evil...
-Then the next time we meet, \nit'll be as friends!
+You don't even know?
+I know you might hurt us both.
+Please, Mr. Robot...
+Won't you help us, please?
+Insufficient data.
+You have feelings for something 
+you know nothing about.
+Illogical!
+I pity you.
+Love is not part of your programming, 
+you are missing something good.
+Hey birdie!   Come back here!
+Go, escape!
+Wh-what?
+You sure?
+It's dangerous here.
+Hurry.  We'll be at 
+the Mystic Ruins base soon.
+You're really nice.
+You're different from the other robots.
+You've got a soft spot 
+inside your metal frame.
+If you want, 
+we can be friends, okay?
 

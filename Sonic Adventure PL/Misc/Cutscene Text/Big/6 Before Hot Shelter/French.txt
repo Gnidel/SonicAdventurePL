@@ -1,4 +1,6 @@
 Froggy?
 Je ne reconnais pas cet endroit.
-On dirait par l'odeur que Froggy \nest ici quelque part.
-Et si je regardais \nderrière cette porte!
+On dirait par l'odeur que Froggy 
+est ici quelque part.
+Et si je regardais 
+derrière cette porte!
