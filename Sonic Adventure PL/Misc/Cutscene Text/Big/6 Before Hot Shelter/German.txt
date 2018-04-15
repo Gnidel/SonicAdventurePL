@@ -1,4 +1,6 @@
 Froggy?
-Dieser Ort kommt mir \nfremd vor.
-Hmm, es riecht, als ob Froggy hier\nirgendwo wäre.
+Dieser Ort kommt mir 
+fremd vor.
+Hmm, es riecht, als ob Froggy hier
+irgendwo wäre.
 Ich werde hinter dieser Tür suchen!

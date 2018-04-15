@@ -1,3 +1,5 @@
-E-103 Delta... E-104 Epsilon...\nMission de sauvetage accomplie.
-E-105 Zeta... E-101 Beta...\nLieu inconnu.
+E-103 Delta... E-104 Epsilon...
+Mission de sauvetage accomplie.
+E-105 Zeta... E-101 Beta...
+Lieu inconnu.
 Peut-être...  à bord de l'Egg Carrier.

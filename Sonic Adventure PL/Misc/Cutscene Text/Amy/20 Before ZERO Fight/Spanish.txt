@@ -1,5 +1,6 @@
 Sí, ¡son ellos!
 ¡Gasp!
 ¡Oh, no!  ¿Estás bien?
-¡Serás tonto! ¡Cómo puedes \nhacer esto!
+¡Serás tonto! ¡Cómo puedes 
+hacer esto!
 ¡Te vas a enterar!

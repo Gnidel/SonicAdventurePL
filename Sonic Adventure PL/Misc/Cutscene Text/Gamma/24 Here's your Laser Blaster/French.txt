@@ -1,0 +1,3 @@
+Voici le Laser Blaster.
+L'explosion touchera les ennemis 
+même s'ils sont éloignés.

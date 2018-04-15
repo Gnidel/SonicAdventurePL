@@ -1,4 +1,4 @@
-Where is this...?
-Data records...
-No data... \nCurrent location unknown...
-...Distressing.
+Must determine location.
+Accessing data.
+No data found.   Location unknown.
+This presents a problem.

@@ -1,2 +1,3 @@
 Je ne connais pas cet endroit.
-Où suis-je?   \nC'est carrément bizarre.
+Où suis-je?   
+C'est carrément bizarre.

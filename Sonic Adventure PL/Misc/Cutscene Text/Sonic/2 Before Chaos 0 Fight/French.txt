@@ -1,6 +1,9 @@
 Te voilà entouré!
 Rends-toi!
-Visez!   \nPrêts?... FEU!
-Oh non!   \nNos armes sont inutiles!
+Visez!   
+Prêts?... FEU!
+Oh non!   
+Nos armes sont inutiles!
 Sortons d'ici!
-Ah, oui!  Cela pourrait \ndevenir intéressant!
+Ah, oui!  Cela pourrait 
+devenir intéressant!

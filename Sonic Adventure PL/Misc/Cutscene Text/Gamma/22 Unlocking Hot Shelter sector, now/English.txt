@@ -1,5 +1,6 @@
-Initiating E-Series data search...
+E-series data.   Beginning search.
 ......
-Match found.
-Existence of E-Series confirmed \nat Hot Shelter.
-Must eliminate Hot Shelter's lock.
+Accessing data…
+Hot Shelter: 
+E-series location confirmed.
+Unlocking Hot Shelter sector, now.

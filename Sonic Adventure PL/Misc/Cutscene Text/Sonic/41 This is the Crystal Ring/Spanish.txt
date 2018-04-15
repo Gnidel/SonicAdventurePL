@@ -1,0 +1,3 @@
+Este es el Crystal Ring.
+Reduce el tiempo necesario de
+recarga para el Light Speed Dash.

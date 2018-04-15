@@ -1,2 +1,4 @@
-Cela devrait aller!  Parfait.\nTout va bien, maintenant!
-La Master Emerald et \nl'île sont comme avant.
+Cela devrait aller!  Parfait.
+Tout va bien, maintenant!
+La Master Emerald et 
+l'île sont comme avant.

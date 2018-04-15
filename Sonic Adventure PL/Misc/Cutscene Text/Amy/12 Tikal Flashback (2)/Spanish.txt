@@ -1,2 +1,3 @@
 Vosotros sois los... Chao.
-No tengáis miedo, \nestáis a salvo conmigo.
+No tengáis miedo, 
+estáis a salvo conmigo.

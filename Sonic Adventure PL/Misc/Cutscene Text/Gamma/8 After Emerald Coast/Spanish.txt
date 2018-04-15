@@ -1,4 +1,5 @@
 Encontrar lugar.
 Accediendo a datos.
-Datos no encontrados. \nLugar no conocido.
+Datos no encontrados. 
+Lugar no conocido.
 Esto es un problema.

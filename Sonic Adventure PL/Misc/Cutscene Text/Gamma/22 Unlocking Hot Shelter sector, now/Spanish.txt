@@ -1,5 +1,7 @@
-Datos E-series. \nComenzando la búsqueda.
+Datos E-series. 
+Comenzando la búsqueda.
 ......
 Accediendo a datos.
-Hot Shelter: \nConfirmada la localización de E-series.
+Hot Shelter: 
+Confirmada la localización de E-series.
 Abriendo el sector Hot Shelter.

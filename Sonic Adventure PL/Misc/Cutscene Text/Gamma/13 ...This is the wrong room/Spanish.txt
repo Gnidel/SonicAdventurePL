@@ -1,2 +1,3 @@
 ...
-Ésta no es la habitación \ncorrecta.
+Ésta no es la habitación 
+correcta.

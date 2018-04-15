@@ -1,18 +1,22 @@
 ¡Vete de aquí!
 ¡Dame el pájaro!
 ¡Ni lo pienses!
-¡Resistirse es inútil! \n¡Dame el pájaro!
+¡Resistirse es inútil! 
+¡Dame el pájaro!
 ¡He dicho que NO!
 ¿Por qué no?
 No es asunto tuyo.
 ¡Quiero saber porqué lo quieres!
 Datos no disponibles.
 ¿No sabes el porqué?
-Seguro que le haces daño, \n¡abusón!
+Seguro que le haces daño, 
+¡abusón!
 ¿Por qué no nos ayudas?
-¡No sabes lo triste que \nme siento!
+¡No sabes lo triste que 
+me siento!
 No computable.
-¿Por qué intentas salvar \nalgo que no necesitas?
+¿Por qué intentas salvar 
+algo que no necesitas?
 No computable.
 ¡Me das mucha pena!
 Eggman no te ha dado sentimientos.
@@ -21,8 +25,12 @@
 ¿Eh?
 ¿Por qué nos dejas ir?
 Este sitio es peligroso.
-Date prisa. Pronto llegaremos \na la base de Mystic Ruins.
+Date prisa. Pronto llegaremos 
+a la base de Mystic Ruins.
 Oh... 
-Tú no eres como los otros, \n¿verdad?
-En tu interior eres una buena \npersona, ¿no?
-Supongo que podemos ser amigos... \nCuídate, ¿vale?
+Tú no eres como los otros, 
+¿verdad?
+En tu interior eres una buena 
+persona, ¿no?
+Supongo que podemos ser amigos... 
+Cuídate, ¿vale?

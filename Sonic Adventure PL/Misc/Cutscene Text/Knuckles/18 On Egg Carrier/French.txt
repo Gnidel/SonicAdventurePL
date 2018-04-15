@@ -1,2 +1,4 @@
-Nous verrons qui est facilement \ndupé.
-Je sens que les Émeraudes\nsont ici quelque part!
+Nous verrons qui est facilement 
+dupé.
+Je sens que les Émeraudes
+sont ici quelque part!

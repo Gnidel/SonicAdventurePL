@@ -1,4 +1,6 @@
 Wo bin ich nur?
-Ich kann mich an diesen Ort \nnicht erinnern.
+Ich kann mich an diesen Ort 
+nicht erinnern.
 Dennoch kommt er mir bekannt vor.
-Hmmmm...  \nHöchst seltsam.
+Hmmmm...  
+Höchst seltsam.
