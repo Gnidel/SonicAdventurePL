@@ -2,7 +2,7 @@
 Hallo, mein Freund. \nWie geht es Dir?
 Hmm... Was hast Du vorhin\ngesagt?
 Was?
-Das hat mir meine Gro√ümutter\neinst beigebracht.
+Das hat mir meine Gro√{mutter\neinst beigebracht.
 Ich werde es nie vergessen.   \nSie sagte...
 	'Die 7 Chaos sind die Diener.'
 	'Chaos ist Macht... \n	Macht, durch das Herz bereichert.'

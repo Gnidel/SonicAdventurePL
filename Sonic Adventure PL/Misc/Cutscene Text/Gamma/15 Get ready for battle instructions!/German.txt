@@ -1,6 +1,6 @@
 Tontest, 1, 2, 3...
 Gamma! Mach Dich auf
-Kampfanweisungen gefa√üt!
+Kampfanweisungen gefa√{t!
 Hol' den Jet Booster aus 
 dem Waffenlager, 
 und geh' auf's Deck.

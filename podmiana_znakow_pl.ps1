@@ -4,9 +4,10 @@
 
 foreach($line in Get-Content .\polskie_znaki.txt) {
     $polskiznak, $znakniecrashujacy = $line.Split(" ");
-    Get-ChildItem -recurse ".\Sonic Adventure PL\Misc\*\*\*\English.txt" |
+    Get-ChildItem -recurse -path ".\Sonic Adventure PL\Misc\" -Include *.txt, *.ini |
     ForEach-Object {
-            $name = $_.fullname; 
+            $name = $_.fullname;
+            echo $name; 
             (get-content $name ) | 
             Foreach-Object {
                 $_ -replace $polskiznak,$znakniecrashujacy

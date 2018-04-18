@@ -1,4 +1,4 @@
-¿Qué estará haciendo Sonic?
+�}Qué estará haciendo Sonic?
 Siempre viene al rescate, 
 o eso parece.
 Debería de ser más independiente.
@@ -9,7 +9,7 @@ te persiguiesen, pajarito.
 ¡Eh! ¡Un colgante! ¡Guau!
 Te voy a ayudar a encontrar 
 a tu familia.
-¿Los tiene prisioneros Eggman?
+�}Los tiene prisioneros Eggman?
 .......
 ¡Qué te apuestas a que sí!
 No te preocupes, juntos 
@@ -18,4 +18,4 @@ encontraremos a tu familia.
 será mejor que llegue hasta el final...
 El robot dijo que la base del doctor 
 Eggman está en Mystic Ruins.
-¿Qué opinas? ¿Vamos a comprobarlo?
+�}Qué opinas? �}Vamos a comprobarlo?

@@ -1,7 +1,7 @@
 Halt, Herr Roboter!
 Amy...?
 He, Herr Roboter.   
-Ich weiß, daß Du kein Böser bist.
+Ich wei�{, da�{ Du kein Böser bist.
 Warte!   Erinnerst Du Dich an mich?
 Amy?
 Was!   Ich verstehe das nicht.
@@ -12,7 +12,7 @@ Hau mit Amy ab!
 Was wirst Du tun?
 Ich kriege diesen Eggman!
 Wir müssen ihn aufhalten!
-Vielen Dank, daß Du mich
+Vielen Dank, da�{ Du mich
  gerettet hast, Sonic.
 Wie geht es Dir, eiserner Freund?
 Hier ist es gefährlich.
@@ -22,6 +22,6 @@ Komm mit uns!
 Ich sagte doch, wir wären
 beim nächsten Mal Freunde.
 Sogar Vögelchen will Dein Bestes.
-Du mußt Eggman verlassen!
+Du mu�{t Eggman verlassen!
 Amy, komm schon!
 Bis zum nächsten Mal, Roboterfreund!

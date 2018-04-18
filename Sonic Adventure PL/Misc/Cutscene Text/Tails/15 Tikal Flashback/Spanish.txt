@@ -1,7 +1,7 @@
 	Los sirvientes son\nlas 7 Chaos Emeralds.
-¡Hola amigo! \n¿Cómo estás?
-Umm... ¿Qué es lo que decías\nantes?
-¿Eh?
+¡Hola amigo! \n�}C�*mo estás?
+Umm... �}Qué es lo que decías\nantes?
+�}Eh?
 Bueno, es algo que me contaba\nmi abuela.
 Nunca lo olvidaré.   \nEmpieza así...
 	'Los sirvientes son los 7 Chaos.'
@@ -10,6 +10,6 @@
 Todavía no estoy segura de lo\nque significa.
 Pero el número 7...
 es el número de\nEmeralds que hay.
-¿Emeralds?
-Perdóname, pero no creo\nque nos conozcamos...
-Yo soy Tikal, ¿y tú?
+�}Emeralds?
+Perd�*name, pero no creo\nque nos conozcamos...
+Yo soy Tikal, �}y tú?
