@@ -10,7 +10,7 @@ foreach($line in Get-Content .\polskie_znaki.txt) {
             echo $name; 
             (get-content $name ) | 
             Foreach-Object {
-                $_ -replace $polskiznak,$znakniecrashujacy
+                $_ -ireplace $polskiznak,$znakniecrashujacy
             } |
             Set-Content $name
     }
