@@ -1,15 +1,15 @@
 Ahora, cálmate.
-¿Qué es lo que quieres?
+�}Qué es lo que quieres?
 Dame el pájaro.
 ¡No!
 Dame el pájaro, con cuidado.
 ¡NO!   ¡Nunca!
-¿Por qué no?
+�}Por qué no?
 ¡No tengo que explicarte nada!
 Me vas a decir para que lo 
 quieres, ¡ahora mismo!
 Comando no computado.
-¿Ni siquiera lo sabes?
+�}Ni siquiera lo sabes?
 Sé que nos puedes hacer 
 daño a los dos.
 Se lo ruego, señor robot...
@@ -17,14 +17,14 @@ daño a los dos.
 Datos insuficientes.
 Tú tienes sentimientos por algo 
 de lo que no sabes nada.
-¡Es ilógico!
+¡Es il�*gico!
 ¡Qué pena!
 El amor no está en tu programa, te 
 estás perdiendo algo muy importante.
 ¡Eh, pájaro!  ¡Vuelve aquí!
 ¡Corre, escapa!
-¿Qué?
-¿Estás seguro?
+�}Qué?
+�}Estás seguro?
 Aquí es muy peligroso.
 ¡Date prisa! Pronto estaremos 
 en la base de Mystic Ruins.
@@ -33,5 +33,5 @@ en la base de Mystic Ruins.
 Tienes un lado tierno 
 dentro de esa carcasa de metal.
 Si quieres, 
-podemos ser amigos, ¿vale?
+podemos ser amigos, �}vale?
 
