@@ -1,16 +1,11 @@
-Stop it, Sonic!
-Step aside, Amy! 
-Out of my way!
-No! This robot is my friend.
-He helped me.
-Don't hurt him.
-Okay.   
-Whatever you say.
-You must have your reasons...
-Hey, this ship is losing 
-altitude!
-Hurry, Tails!   
-Take Amy and get out of here!
-But what about you?
-I'll find that Eggman 
-and put him out of commission!
+Przestań, Sonic!
+Suń się, Amy!\nZ drogi!
+Nie! Ten robot to mój przyjaciel. Pomógł mi.
+Nie krzywdź go.
+No dobra.\nJak tam chcesz.
+Jakieś powody musisz mieć...
+Hej, ten statek traci wysokość!
+Biegiem, Tails!\nZabierz Amy i wynieście się stąd!
+A co z tobą?
+Muszę dorwać tego Eggmana 
+i się go pozbyć!

@@ -1,14 +1,12 @@
 Sonic!
-Huh!   They're too late!
-Not the birdie!
-...A Chaos Emerald!
-No way!
-Be gone!   All of you!
-This is all I really need!
+Hah! Są za późno!
+Tylko nie ptaszek!
+...Szmaragd Chaosu!
+Niemożliwe!
+Odejść! Wy wszyscy!\n Tylko tego potrzebuję!
 Gamma!
-What is your wish, 
-master Robotonik?
-Get rid of these pests!
-Show them what you've got!
-Aye aye, sir.
-And don't disappoint me, or else...
+Jakie są Pańskie życzenia,\npanie Robotoniku?
+Pozbądź się tej zarazy!
+Pokaż im co potrafisz!
+Przyjąłem, proszę Pana.
+I nie zawiedź mnie,\nbo w przeciwnym razie...
