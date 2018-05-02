@@ -1,2 +1,1 @@
-Emergency alert has been cancelled!
-Resuming monorail operation.
+Alarm bezpieczeństwa anulowany!\nWznawianie pracy kolejki.
