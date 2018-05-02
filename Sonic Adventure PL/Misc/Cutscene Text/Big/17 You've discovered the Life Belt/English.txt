@@ -1,4 +1,2 @@
-You've discovered the Life Belt. It
-keeps you afloat when you're in water.
-To swim underwater, 
-press the jump button when afloat.
+Odkryłeś Koło Ratunkowe. Będzie unosić\ncię na powierzchni wody.
+By zanurkować, naciśnij przycisk\nskoku podczas unoszenia się.
