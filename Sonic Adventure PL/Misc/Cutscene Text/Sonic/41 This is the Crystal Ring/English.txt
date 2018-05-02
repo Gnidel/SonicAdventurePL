@@ -1,3 +1,2 @@
-This is the Crystal Ring.
-This reduces the time needed to store
-power for the Light Speed Dash.
+To jest Kryształowy Pierścień.
+On zmniejsza czas wymagany do\nnaładowania Pędu Prędkości Światła.

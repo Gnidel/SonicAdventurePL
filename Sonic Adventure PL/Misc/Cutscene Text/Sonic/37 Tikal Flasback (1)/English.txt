@@ -1,3 +1,2 @@
-What's this place?
-Where am I?   
-This is really weird.
+Co to za miejsce?
+Gdzie jestem?\nTo jest bardzo dziwne.
