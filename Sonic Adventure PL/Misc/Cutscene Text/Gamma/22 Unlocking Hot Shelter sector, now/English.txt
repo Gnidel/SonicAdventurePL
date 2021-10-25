@@ -1,6 +1,8 @@
-E-series data.   Beginning search.
+Dane serii robot@w "E".
+Rozpoczynanie wyszukiwania.
 ......
-Accessing data…
+Uzyskiwanie dost$pu do danych…
 Hot Shelter: 
-E-series location confirmed.
-Unlocking Hot Shelter sector, now.
+Po*o}enie serii robot@w "E" potwierdzone.
+Nast$puje otwieranie sektora "Hot Shelter".
+

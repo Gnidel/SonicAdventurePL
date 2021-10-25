@@ -1,4 +1,4 @@
-Must determine location.
-Accessing data.
-No data found.   Location unknown.
-This presents a problem.
+Wymagane okre`lenie po*o}enia.
+Uzyskiwanie dost$pu do danych.
+Dane nieodnalezione. Po*o}enie nieznane.
+To stanowi problem.
