@@ -34,3 +34,8 @@ NIE ZAMIERZAM ROZWIJAĆ TEGO MODA. Jeśli jesteście zainteresowani jego rozwoje
 
 ## Podziękowania
 Podziękowania dla Windii https://twitter.com/nothisiswindii i SPEEPSHighway https://twitter.com/SPEEPSHighway za stworzenie Sonic Adventure Retranslated, na którym ten mod był zainspirowany oraz dla MainMemory https://mm.reimuhakurei.net/ za stworzenie narzędzi, które umożliwiły dodanie tłumaczenia do gry.
+
+## Autorzy:
+- Gnidel
+- Pixel the Retro
+- Lego31318
